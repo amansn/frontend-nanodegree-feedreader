@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project, I was given a web-based application that reads RSS feeds. The goal of this project was to learn how to use Jasmine to perform testing. An initial test was already included in the code to serve as reference. I was able to write a series of tests to ensure the web-app worked correctly.
+In this project, I was given a web-based application that reads RSS feeds. The goal of this project was to learn how to use Jasmine to perform testing. An initial spec was already included in the code to serve as reference. I was able to write a series of tests to ensure the web-app worked correctly.
 
 # To Run
 
